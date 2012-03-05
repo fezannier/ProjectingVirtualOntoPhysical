@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{B9D477B4-68BD-4BEC-FDD3-08C371C17F87}") = "HandProjection", "Assembly-CSharp-firstpass.csproj", "{D4BBAB75-41CB-6ED6-0107-B4EFE8B3356C}"
+EndProject
+Project("{B9D477B4-68BD-4BEC-FDD3-08C371C17F87}") = "HandProjection", "Assembly-UnityScript-firstpass.unityproj", "{452F3C12-4617-9C37-29AB-D4E202E1292C}"
+EndProject
+Project("{B9D477B4-68BD-4BEC-FDD3-08C371C17F87}") = "HandProjection", "Assembly-UnityScript.unityproj", "{897727A9-4D16-AB0F-A250-939D9112B9D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4BBAB75-41CB-6ED6-0107-B4EFE8B3356C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4BBAB75-41CB-6ED6-0107-B4EFE8B3356C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4BBAB75-41CB-6ED6-0107-B4EFE8B3356C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4BBAB75-41CB-6ED6-0107-B4EFE8B3356C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{452F3C12-4617-9C37-29AB-D4E202E1292C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452F3C12-4617-9C37-29AB-D4E202E1292C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452F3C12-4617-9C37-29AB-D4E202E1292C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452F3C12-4617-9C37-29AB-D4E202E1292C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{897727A9-4D16-AB0F-A250-939D9112B9D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897727A9-4D16-AB0F-A250-939D9112B9D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897727A9-4D16-AB0F-A250-939D9112B9D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897727A9-4D16-AB0F-A250-939D9112B9D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
